@@ -1,16 +1,17 @@
 <div align="center">
 
-<!-- Typing animation header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=200&section=header&text=Hi,%20I'm%20Utkarsh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Solo%20Founder%20%7C%20Agentic%20AI%20%26%20Fintech%20Builder&descAlignY=55&descSize=18" width="100%"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Utkarsh+%F0%9F%91%8B;Solo+Founder+%7C+Full-Stack+Builder;Building+Multi-Agent+AI+Systems;Explainable+AI+%C3%97+Fintech+%C3%97+Agentic+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+%22Checkpoint%22+%E2%80%94+Git+for+AI+Agent+Actions;Author+of+an+arXiv+paper+on+Explainable+AI;Shipping+multi-agent+systems+solo%2C+end-to-end;AI+Developer+Intern+%40+Good+Health+24%2F7" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=utkarsh4964-stack&color=38BDF8&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-sharma-62a00a311/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:utkarsh4964@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/utkarsh4964-stack?style=flat-square&color=38BDF8&label=Followers)](https://github.com/utkarsh4964-stack)
+![Profile Views](https://komarev.com/ghpvc/?username=utkarsh4964-stack&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-sharma-62a00a311/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh4964@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/utkarsh4964-stack?style=for-the-badge&color=38BDF8&label=FOLLOWERS)](https://github.com/utkarsh4964-stack)
 
 </div>
 
@@ -33,25 +34,31 @@ I'm an Information Technology undergrad at **JSS Academy of Technical Education,
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,java,fastapi,postgres,sqlite,git,github,railway,vercel,vscode,docker,html,css,js&theme=dark" />
+
+<br/><br/>
 
 **AI / ML Focus**
 
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-38BDF8?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-14B8A6?style=flat-square)
-![SHAP](https://img.shields.io/badge/Explainable%20AI%20(SHAP)-F59E0B?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-38BDF8?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-14B8A6?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI%20(SHAP)-F59E0B?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge)
+
+</div>
+
+---
+
+### 📈 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/utkarsh4964-stack/utkarsh4964-stack/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚙️ Renders automatically once the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action is added to this repo — see setup note at the bottom.</sub>
 
 </div>
 
@@ -124,12 +131,14 @@ Multi-agent AI credit scoring app for credit-invisible populations in India, usi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=utkarsh4964-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh4964-stack&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=utkarsh4964-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh4964-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh4964-stack&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh4964-stack&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh4964-stack&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh4964-stack&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=ffffff" width="95%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=utkarsh4964-stack&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
@@ -142,6 +151,20 @@ Agentic infrastructure • Explainable fintech AI • International research int
 
 💬 **Open to:** internships, collaborations on agentic AI tools, and startup conversations
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:38BDF8&height=120&section=footer" width="100%"/>
 
 </div>
+
+---
+
+<details>
+<summary>⚙️ <b>Setup note (do this once, then delete this section)</b></summary>
+
+<br/>
+
+1. Create a **new public repo** named exactly `utkarsh4964-stack` (must match your GitHub username) and add this file as `README.md` — GitHub will auto-pin it to your profile.
+2. **Snake animation:** in that same repo, go to *Settings → Secrets and Actions → Actions*, then add a workflow file `.github/workflows/snake.yml` using the [Platane/snk action](https://github.com/Platane/snk#-get-your-contribution-snake) (README there has a copy-paste YAML). It auto-generates the `output` branch the snake image above points to.
+3. **Trophies / stats / streak widgets** need no setup — they pull live from your public GitHub activity as soon as the repo exists.
+4. Swap in real links once live: Checkpoint and AI Case Report demo URLs are currently placeholders — add them when deployed.
+
+</details>
